@@ -3,14 +3,6 @@
   <img src="https://raw.githubusercontent.com/AfzalManihar/AfzalManihar/main/Github_banner%20.png" alt="Banner" width="100%">
 </p>
 
-
-<h2 Hi there 👋 I'm Afzal Manihar</h2>
-<h3 align="center">Passionate Data Analyst | SQL | Python | Excel | Power BI | Tableau | R</h3>
-
-
-<h2 Hi there 👋 I'm Afzal Manihar</h2>
-<h3 align="center">Passionate Data Analyst | SQL | Python | Excel | Power BI | Tableau | R</h3>
-
 ---
 
 ###
