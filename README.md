@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img  />
+  <img https://github.com/AfzalManihar/AfzalManihar/blob/main/Github_banner%20.png/>
 </p>
 
 <h2 align="center">Hi there 👋 I'm Afzal Manihar</h2>
