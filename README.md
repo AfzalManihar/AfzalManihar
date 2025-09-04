@@ -28,17 +28,9 @@ I'm **Afzal Manihar**, a passionate **Data Analyst** with an array of skills in 
 ---
 
 ###  🖇️Projects 
+   📂 Check out my Project Portfolio: [My Projects](https://github.com/AfzalManihar/Projects-Portfolio)
 
-Here are some of my Data Analysis projects:
 
-- [E-commerce Sales Analysis](https://github.com/AfzalManihar/Ecommerce-Sales-Analysis)  
-  *Sales insights & trend analysis using Python & SQL.*  
-
-- [Power BI Dashboard](https://github.com/AfzalManihar/PowerBI-Sales-Dashboard)  
-  *Interactive sales dashboard with KPIs.*  
-
-- [Data Cleaning with Python](https://github.com/AfzalManihar/Python-Data-Cleaning)  
-  *Data preprocessing & cleaning pipeline in Python.*  
 
 
 ---
