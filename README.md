@@ -1,15 +1,19 @@
 <!-- Banner Section -->
-<p>
-  <img https://github.com/AfzalManihar/AfzalManihar/blob/main/Github_banner%20.png/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AfzalManihar/AfzalManihar/main/Github_banner%20.png" alt="Banner" width="100%">
 </p>
+
+
+<h2 Hi there 👋 I'm Afzal Manihar</h2>
+<h3 align="center">Passionate Data Analyst | SQL | Python | Excel | Power BI | Tableau | R</h3>
+
 
 <h2 Hi there 👋 I'm Afzal Manihar</h2>
 <h3 align="center">Passionate Data Analyst | SQL | Python | Excel | Power BI | Tableau | R</h3>
 
 ---
 
-### 👨‍💻 About Me
+###
 I'm **Afzal Manihar**, a passionate **Data Analyst** with an array of skills in **SQL, MS Excel, Python, Power BI, Tableau, and R**.
 
 - **SQL**: Proficient in querying and manipulating data with SQL.  
