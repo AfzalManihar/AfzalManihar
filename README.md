@@ -20,7 +20,7 @@ I'm **Afzal Manihar**, a passionate **Data Analyst** with an array of skills in 
 - **Spreadsheet**: MS Excel  
 
 ###  🖇️Projects 
-   * Check out my Project Portfolio: [My Projects](https://github.com/AfzalManihar/Projects-Portfolio)
+   * Check out my Project Portfolio: [My Projects](https://github.com/AfzalManihar/E-Commerce-Power-Bi-DashBoard)
 
 
 
