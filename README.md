@@ -1,4 +1,4 @@
- <a href="https://github.com/AfzalManihar" target="_blank">AfzalManihar</a>
+<a href="https://github.com/AfzalManihar/AfzalManihar/blob/main/README.md" target="_blank">AfzalManihar</a>
 <h2>Hi there 👋 Introducing myself,</h2>
 <!-- Banner Section -->
 <p align="center">
