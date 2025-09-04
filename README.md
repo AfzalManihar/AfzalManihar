@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="C:\Users\afzal\OneDrive\Pictures\WhatsApp Image 2025-08-31 at 19.40.16_98d9c2b4.jpg" alt="Banner" width="100%" />
+  <img  />
 </p>
 
 <h2 align="center">Hi there 👋 I'm Afzal Manihar</h2>
