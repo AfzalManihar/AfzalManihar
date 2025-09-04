@@ -1,10 +1,10 @@
 <!-- Banner Section -->
-<p align="center">
+<p>
   <img https://github.com/AfzalManihar/AfzalManihar/blob/main/Github_banner%20.png/>
 
 </p>
 
-<h2 align="center">Hi there 👋 I'm Afzal Manihar</h2>
+<h2 Hi there 👋 I'm Afzal Manihar</h2>
 <h3 align="center">Passionate Data Analyst | SQL | Python | Excel | Power BI | Tableau | R</h3>
 
 ---
