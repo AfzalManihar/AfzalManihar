@@ -12,8 +12,6 @@
   <img src="https://raw.githubusercontent.com/AfzalManihar/AfzalManihar/main/Github_banner%20.png" alt="Banner" width="100%">
 </p>
 
----
-
 ###
 I'm **Afzal Manihar**, a passionate **Data Analyst** with an array of skills in **SQL, MS Excel, Python, Power BI, Tableau, and R**.
 
