@@ -1,11 +1,3 @@
-<a href="https://github.com/AfzalManihar/AfzalManihar/blob/main/README.md" 
-     style="color:black; text-decoration:none;" 
-     onmouseover="this.style.color='blue';" 
-     onmouseout="this.style.color='black';" 
-     target="_blank">
-     AfzalManihar/README.md
-  </a>
-
 <h2>Hi there 👋 Introducing myself,</h2>
 <!-- Banner Section -->
 <p align="center">
