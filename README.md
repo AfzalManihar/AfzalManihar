@@ -21,26 +21,19 @@ I'm **Afzal Manihar**, a passionate **Data Analyst** with an array of skills in 
 - **Tableau & Power BI**: Develops interactive dashboards.  
 - **R Explorer**: Beginning my data exploration journey with R for statistical analysis.  
 
----
-
 ### ⚙️ Skills
 - **Language**: SQL, Python  
 - **Database**: PostgreSQL, MySQL  
 - **Visualization**: Power BI, Tableau  
 - **Spreadsheet**: MS Excel  
 
----
-
 ###  🖇️Projects 
    * Check out my Project Portfolio: [My Projects](https://github.com/AfzalManihar/Projects-Portfolio)
 
 
 
-
----
-
 ### ### 🕸️ Let's Connect
 - [LinkedIn | Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)  
 
 
----
+
