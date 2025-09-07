@@ -23,9 +23,10 @@ I'm **Afzal Manihar**, a passionate **Data Analyst** with an array of skills in 
  
   <summary>🛠️ My Projects</summary>
 
-- [E-Commerce Power BI Dashboard](https://github.com/AfzalManihar/E-Commerce-Power-Bi-DashBoard)  
-- [Excel Store Sales Analysis](https://github.com/AfzalManihar/Excel_Store_Sales_Analysis)  
-- [Python E-Commerce Sales Analysis](https://github.com/AfzalManihar/Python_E-Commerce_Sales_Analysis)  
+- [Excel Store Sales Analysis](https://github.com/AfzalManihar/Excel_Store_Sales_Analysis)
+- [E-Commerce Power BI Dashboard](https://github.com/AfzalManihar/E-Commerce-Power-Bi-DashBoard)   
+- [Python E-Commerce Sales Analysis](https://github.com/AfzalManihar/Python_E-Commerce_Sales_Analysis)
+- [SQL_Music_Store_Analysis](https://github.com/AfzalManihar/SQL_Music_Store_Analysis)
 
 
 
