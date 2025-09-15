@@ -20,12 +20,8 @@ I'm **Afzal Manihar**, a passionate **Data Analyst** with an array of skills in 
 - **Spreadsheet**: MS Excel  
 
 ###  🖇️Projects 
-# Check out my Project Portfolio: 
 
-[![My Projects](https://img.shields.io/badge/My%20Projects-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/AfzalManihar/My_Projects)
-
-  
-
+-  *Check out my Project Portfolio:*: [My Projects](https://github.com/AfzalManihar/My_Projects)
 
 
  🕸️ Let's Connect
