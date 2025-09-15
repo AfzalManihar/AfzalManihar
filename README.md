@@ -20,15 +20,11 @@ I'm **Afzal Manihar**, a passionate **Data Analyst** with an array of skills in 
 - **Spreadsheet**: MS Excel  
 
 ###  🖇️Projects 
- 
-  <summary>🛠️ My Projects</summary>
+# Check out my Project Portfolio: 
 
-- [Excel Store Sales Analysis](https://github.com/AfzalManihar/Excel_Store_Sales_Analysis)
-- [E-Commerce Power BI Dashboard](https://github.com/AfzalManihar/E-Commerce-Power-Bi-DashBoard)   
-- [Python E-Commerce Sales Analysis](https://github.com/AfzalManihar/Python_E-Commerce_Sales_Analysis)
-- [SQL_Music_Store_Analysis](https://github.com/AfzalManihar/SQL_Music_Store_Analysis)
-- [Tableau Banking Data Analysis](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project)
+[![My Projects](https://img.shields.io/badge/My%20Projects-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/AfzalManihar/My_Projects)
 
+  
 
 
 
