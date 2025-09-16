@@ -26,6 +26,7 @@ I'm **Afzal Manihar**, a passionate **Data Analyst** with an array of skills in 
 
  🕸️ Let's Connect
 - [LinkedIn | Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)
+- [Portfolio | Afzal Manihar](https://afzalmanihar.github.io/)
 
 
 
