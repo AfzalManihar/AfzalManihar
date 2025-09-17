@@ -1,7 +1,7 @@
 <h2>Hi there 👋 Introducing myself,</h2>
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AfzalManihar/AfzalManihar/main/Github_banner%20.png" alt="Banner" width="100%">
+  <img src="https://github.com/AfzalManihar/AfzalManihar/blob/main/Github_banner%20.png.jpg" alt="Banner" width="100%">
 </p>
 
 ###
