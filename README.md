@@ -133,8 +133,8 @@ An AI-powered ATS Resume Analyzer that evaluates resumes against job description
 | **Performance** | Real-time resume matching with structured JSON response handling |
 | **Security** | Secure API key management via Streamlit Secrets |
 | **Impact** | Generates ATS scores, missing keywords, and resume improvement insights |
-| **Repository** | [View on GitHub](https://github.com/afzalmanihar) |
-| **Live Demo** | [Try it here](https://afzalmanihar.github.io) |
+| **Repository** | [View on GitHub](https://github.com/AfzalManihar/End-to-End-Resume-ATS-Tracking-with-AI-Gemini) |
+| **Live Demo** | [Try it here](https://end-to-end-resume-ats-tracking-with-ai-gemini-1.streamlit.app/) |
 
 </div>
 
@@ -157,8 +157,8 @@ An end-to-end churn prediction system built on telecom customer behavior data.
 | **Performance** | **77% accuracy** using Random Forest |
 | **Security** | Model persistence via Pickle for safe, repeatable inference |
 | **Impact** | Feature-importance analysis to identify key churn drivers |
-| **Repository** | [View on GitHub](https://github.com/afzalmanihar) |
-| **Live Demo** | [Try it here](https://afzalmanihar.github.io) |
+| **Repository** | [View on GitHub](https://github.com/AfzalManihar/telco_customer-churn-prediction) |
+| **Live Demo** | [Try it here](https://telcocustomer-churn-prediction-using-ml.streamlit.app/) |
 
 </div>
 
@@ -181,7 +181,7 @@ An interactive analytics dashboard surfacing revenue trends and customer behavio
 | **Performance** | KPI dashboards for revenue trend and top-product monitoring |
 | **Security** | N/A (analytical dashboard) |
 | **Impact** | Actionable recommendations for sales growth and inventory optimization |
-| **Repository** | [View on GitHub](https://github.com/afzalmanihar) |
+| **Repository** | [View on GitHub](https://github.com/AfzalManihar/Python_E-Commerce_Sales_Analysis) |
 
 </div>
 
