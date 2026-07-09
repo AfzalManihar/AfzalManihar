@@ -231,15 +231,21 @@ Structured, hands-on program covering the full data science stack through to gen
 
 **IBM**
 
-<img src="https://img.shields.io/badge/Python%20for%20Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<a href="https://drive.google.com/file/d/18zzE4ho9nNo5tW-bFihbvk3uYW7ePhwS/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Python for Data Science Certificate"/>
+</a>
 
 **HackerRank**
 
-<img src="https://img.shields.io/badge/SQL%20for%20Data%20Science-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://www.hackerrank.com/certificates/iframe/1d53f1073a02" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Certificate"/>
+</a>
 
 **WsCubeTech**
 
-<img src="https://img.shields.io/badge/GenAI%20for%20Data%20Analytics-7C3AED?style=for-the-badge"/>
+<a href="https://drive.google.com/file/d/14zlyYisUSCc1bGXsx-ShTZl2HFayYbr0/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/GenAI%20for%20Data%20Analytics-7C3AED?style=for-the-badge" alt="GenAI for Data Analytics Certificate"/>
+</a>
 
 ---
 
@@ -311,13 +317,6 @@ current_focus:
 
 </div>
 
----
-## 🟣 My Projects 
- *Check out my Project Portfolio:*: [My Projects](https://github.com/AfzalManihar/My_Projects)
-
- ## 🟣  Let's Connect
- - [LinkedIn | Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)
-- [Portfolio | Afzal Manihar](https://afzalmanihar.github.io/)
 ---
 
 <div align="center">
