@@ -282,7 +282,6 @@ Structured, hands-on program covering the full data science stack through to gen
 
 </div>
 
-> Requires a one-time GitHub Actions workflow in your `afzalmanihar/afzalmanihar` repo to generate this file — ask if you want that workflow code.
 
 ---
 
