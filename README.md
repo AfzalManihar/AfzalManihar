@@ -77,8 +77,8 @@ My focus is on developing systems that go beyond generating text by incorporatin
 
 ## 🟣 Featured Projects
 
-<details open>
-<summary><b>🎓 Lumina Tutor — Adaptive Instructional Design · Gagné × Merrill · LangGraph</b></summary>
+<details>
+<summary><b>🎓 Lumina Tutor — Adaptive Instructional Design · Gagne × Merrill · LangGraph</b></summary>
 
 <br/>
 
@@ -311,9 +311,15 @@ Current learning areas include Python, data analysis, SQL, machine learning, NLP
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfzalManihar&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" alt="Most Used Languages"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AfzalManihar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%" alt="GitHub Contribution Activity"/>
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AfzalManihar/AfzalManihar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
