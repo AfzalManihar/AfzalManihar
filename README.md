@@ -17,10 +17,10 @@
 
 <br/><br/>
 
-<a href="https://github.com/AfzalManihar/lumina-tutor-Agent">
+<a href="https://github.com/AfzalManihar/lumina-ai-tutor">
 <img src="https://img.shields.io/badge/Featured%20Project-Lumina%20Tutor-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://lumina-tutor-agent.streamlit.app/">
+<a href="https://lumina-ai-tutor-b5229.containers.snapdeploy.app/app">
 <img src="https://img.shields.io/badge/Live%20Demo-Try%20Lumina%20Tutor-16A34A?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
@@ -96,8 +96,8 @@ The project combines **Gagné's Nine Events of Instruction** and **Merrill's Fir
 | **Adaptive Learning** | Error tracking, alternative teaching strategies, learner signals |
 | **Quality Checks** | Pacing validation, assessment checks, content repair loop |
 | **Human-in-the-Loop** | Structured teacher handoff when learners repeatedly struggle |
-| **Repository** | [View on GitHub](https://github.com/AfzalManihar/lumina-tutor-Agent) |
-| **Live Demo** | [Try Lumina Tutor](https://lumina-tutor-agent.streamlit.app/) |
+| **Repository** | [View on GitHub](https://github.com/AfzalManihar/lumina-ai-tutor) |
+| **Live Demo** | [Try Lumina Tutor](https://lumina-ai-tutor-b5229.containers.snapdeploy.app/app) |
 
 </div>
 
