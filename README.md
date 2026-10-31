@@ -307,11 +307,17 @@ Current learning areas include Python, data analysis, SQL, machine learning, NLP
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AfzalManihar&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=8B5CF6" alt="GitHub Statistics"/>
+<a href="https://github.com/AfzalManihar">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfzalManihar&theme=tokyonight" alt="GitHub Statistics"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfzalManihar&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" alt="Most Used Languages"/>
+<a href="https://github.com/AfzalManihar">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AfzalManihar&theme=tokyonight" alt="Most Used Languages"/>
+</a>
 
 </div>
+
+---
 
 ---
 
